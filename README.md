@@ -55,12 +55,6 @@ I am passionate about continuously improving my technical skills and exploring n
 
 ---
 
-## 🤝 Connect With Me
-
-I am always open to learning opportunities, collaborations, and discussions related to software development, data analytics, artificial intelligence, and emerging technologies.
-
----
-
 ### ⭐ If you find this repository useful, consider giving it a star!
 
 **Maintained by:** Saatvik Gupta  
