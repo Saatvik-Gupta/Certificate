@@ -55,7 +55,7 @@ I am passionate about continuously improving my technical skills and exploring n
 
 ---
 
-### ⭐ If you find this repository useful, consider giving it a star!
+### ⭐ If you find this repository useful, consider giving it a star:
 
 **Maintained by:** Saatvik Gupta  
 **Aspiring Software Developer | Lifelong Learner | Technology Enthusiast**
